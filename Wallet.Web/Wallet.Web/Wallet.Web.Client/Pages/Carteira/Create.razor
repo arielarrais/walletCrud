@@ -1,0 +1,45 @@
+﻿@page "/carteira/create"
+@inject HttpClient  http
+@inject NavigationManager navigation
+@inject IJSRuntime js;
+
+<h2>Nova Carteira</h2>
+
+<CarteiraForm Carteira="@carteira" OnValidSubmit="@CriarCarteira"
+               ButtonTextSubmit="Salvar" ButtonTextCancelar="Cancelar">
+
+</CarteiraForm>
+
+<ExibeErro ErrorMessage="@errorMessage" />
+
+@code {
+
+    private string errorMessage = "";
+    Carteira carteira = new Carteira();
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await Focus("txtCarteiraNome");
+        }
+    }
+
+    public async Task Focus(string elementId)
+    {
+        await js.InvokeVoidAsync("focusById", elementId);
+    }
+
+    async Task CriarCarteira()
+    {
+        try
+        {
+            var result = await http.PostAsJsonAsync("api/carteira", carteira);
+            navigation.NavigateTo("carteira");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+}

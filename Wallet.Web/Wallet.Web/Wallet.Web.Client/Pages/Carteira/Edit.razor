@@ -1,0 +1,27 @@
+﻿@page "/carteira/edit/{carteiraid:int}"
+@inject HttpClient http;
+@inject NavigationManager navigation;
+
+<h2>Editar Carteira</h2>
+
+<CarteiraForm Carteira="@carteira" onValidSubmit="@EditarCarteira"
+              ButtonTextSubmit="Salvar" ButtonTextCancelaar="Cancelar">
+</CarteiraForm>
+
+@code {
+    [Parameter]
+    public int carteiraid { get; set; }
+
+    Carteira carteira = new Carteira();
+
+    protected async override Task OnParametersSetAsync()
+    {
+        carteira = await http.GetFromJsonAsync<Carteira>($"api/carteira/{carteiraid}") ?? new Carteira();
+    }
+
+    async Task EditarCarteira()
+    {
+        await http.PutAsJsonAsync("api/carteira", carteira);
+        navigation.NavigateTo("carteira");
+    }
+}

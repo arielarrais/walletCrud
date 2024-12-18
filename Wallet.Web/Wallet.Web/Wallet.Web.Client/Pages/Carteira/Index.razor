@@ -1,0 +1,106 @@
+﻿@page "/carteira"
+@using System.Text.Json
+@inject HttpClient http;
+
+<div>
+    <a class="btn btn-success" href="carteira/create">Nova Carteira</a>
+</div>
+<br/>
+
+@if (carteira == null)
+{
+    <p><em>Carregando...</em></p>
+}
+else if (carteira.Count == 0)
+{
+    <p><em>Não existe carteira cadastradas...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Id_Ativo</th>
+            </tr>
+        </thead>
+        <tbody>obri
+            @foreach (var carteira in carteira)
+            {
+                <tr>
+                    <td>@carteira.Id</td>
+                    <td>@carteira.Id_Ativo</td>
+                    <td><a class="btn btn-primary" href="carteira/edit/@carteira.Id">Editar</a></td>
+                    <td><a class="btn btn-danger" @inclick="@(() => DeletarCarteira(carteira.Id))">Deletar</a></td>
+                </tr>                
+            }
+        </tbody>
+    </table>
+}
+
+<Confirma @href="confirma" onCancela="@CancelaConfirma" onConfirma="@DeletaConfirma">
+    <div>Deseja realmente excluir este item ?</div>
+</Confirma>
+
+
+<ExibeErro ErrorMessage="@errorMessage" />
+
+@code{
+    private string errorMessage = "";
+    List<Carteira>? carteira { get; set; }
+    //Confirma? confirma;
+    Confirma confirma = new Confirma();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CarregaCarteira();
+    }
+
+    public async Task CarregaCarteira()
+    {
+        try
+        {
+            var httpResponse = await http.GetAsync($"api/carteira");
+
+            var mensagem = httpResponse.RequestMessage;
+            var erro = httpResponse.StatusCode;
+            var alerta = httpResponse.Content;
+
+            if (httpResponse.IsSuccessStatusCode)
+            {
+                var responseString = await httpResponse.Content.ReadAsStringAsync();
+
+                carteira = JsonSerializer.Deserialize<List<Carteira>>(responseString,
+                    new JsonSerializerOptions()
+                    {
+                        PropertyNameCaseInsensitive = true
+                    }
+                );
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+
+    int codigoCarteira;
+
+    void DeletarCarteira(int carteiraId)
+    {
+        confirma.Exibir();
+        codigoCarteira = carteiraId;
+    }
+
+    async Task DeletaConfirma()
+    {
+        await http.DeleteAsync($"api/carteira/{codigoCarteira}");
+        confirma.Ocultar();
+        await CarregaCarteira();
+    }
+
+    void CancelaConfirma()
+    {
+        confirma.Ocultar();
+    }
+}
