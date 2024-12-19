@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
       "projectName": "Wallet.Web.Shared",
-      "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
+      "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
       "packagesPath": "C:\\Users\\Nvme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nvme\\AppData\\Roaming\\NuGet\\NuGet.Config",

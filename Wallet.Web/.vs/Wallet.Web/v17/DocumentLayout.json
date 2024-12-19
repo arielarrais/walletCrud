@@ -1,97 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\",
+  "WorkspaceRootPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\carteira\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web\\controllers\\carteiracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\controllers\\carteiracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\controllers\\carteiracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\carteira\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\wwwroot\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\wwwroot\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\carteira\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\carteiraform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\carteira\\carteiraform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\shared\\confirma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\shared\\confirma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\shared\\exibeerro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\shared\\exibeerro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D739BFB7-0481-4933-8902-75FA1A7ACEF3}|Wallet.Web.Shared\\Wallet.Web.Shared.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.shared\\models\\carteira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D739BFB7-0481-4933-8902-75FA1A7ACEF3}|Wallet.Web.Shared\\Wallet.Web.Shared.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web.shared\\models\\carteira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D739BFB7-0481-4933-8902-75FA1A7ACEF3}|Wallet.Web.Shared\\Wallet.Web.Shared.csproj|solutionrelative:wallet.web.shared\\models\\carteira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web\\migrations\\20241209212802_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\migrations\\20241209212802_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\wallet.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\wallet.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\carteiraform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\carteira\\carteiraform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\carteira\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\carteira\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\carteira\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\20241219212341_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wallet.Web\\Wallet.Web\\Migrations\\20241219212341_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\wwwroot\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\wwwroot\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\shared\\confirma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\shared\\confirma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\shared\\exibeerro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\shared\\exibeerro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D6E39CE-9FE5-4368-B613-56F43B86F508}|Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj|solutionrelative:wallet.web\\wallet.web.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|c:\\users\\nvme\\desktop\\github\\wallet\\wallet.web\\wallet.web\\wallet.web\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E92989-CAEB-430C-B7BD-12C33B80AF19}|Wallet.Web\\Wallet.Web\\Wallet.Web.csproj|solutionrelative:wallet.web\\wallet.web\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,63 +106,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T12:28:23.552Z"
+              "Title": "Wallet.Web",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T21:50:42.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
-              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
-              "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T18:04:28.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CarteiraForm.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
-              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
-              "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T18:02:53.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Create.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Create.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Create.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Create.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Create.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Create.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Create.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T18:01:29.558Z"
+              "WhenOpened": "2024-12-10T18:01:29.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ExibeErro.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\ExibeErro.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\ExibeErro.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\ExibeErro.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\ExibeErro.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\ExibeErro.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\ExibeErro.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -166,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Confirma.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\Confirma.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\Confirma.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\Confirma.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\Confirma.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\Confirma.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Shared\\Confirma.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -178,13 +159,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Edit.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Edit.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Edit.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Edit.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Edit.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Edit.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Edit.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-10T17:31:59.081Z",
               "EditorCaption": ""
@@ -193,22 +174,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Index.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Index.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Index.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Index.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Index.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\Index.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAawBwAAAAMAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAnwFwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-10T16:35:32.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Home.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -216,11 +197,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Utils.js",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\wwwroot\\Utils.js",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\wwwroot\\Utils.js",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\wwwroot\\Utils.js",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\wwwroot\\Utils.js",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\wwwroot\\Utils.js",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\wwwroot\\Utils.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -228,11 +209,113 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarteiraController.cs",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:06:10.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\appsettings.json",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T19:27:17.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carteira.cs",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Models\\Carteira.cs",
+              "RelativeDocumentMoniker": "Wallet.Web.Shared\\Models\\Carteira.cs",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Models\\Carteira.cs",
+              "RelativeToolTip": "Wallet.Web.Shared\\Models\\Carteira.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:48:01.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarteiraForm.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Carteira\\CarteiraForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:02:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:04:28.187Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:53:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:28:23.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241219212341_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\20241219212341_Inicial.cs",
+              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Migrations\\20241219212341_Inicial.cs",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\20241219212341_Inicial.cs",
+              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Migrations\\20241219212341_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:23:42.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Layout\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -240,24 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarteiraController.cs",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
-              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
-              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Controllers\\CarteiraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:06:10.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Counter.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -265,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Pages\\Weather.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Pages\\Weather.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -277,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Program.cs",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Program.cs",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Routes.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web.Client\\Routes.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Routes.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Routes.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web.Client\\Routes.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -301,47 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:53:25.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Carteira.cs",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Models\\Carteira.cs",
-              "RelativeDocumentMoniker": "Wallet.Web.Shared\\Models\\Carteira.cs",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Models\\Carteira.cs",
-              "RelativeToolTip": "Wallet.Web.Shared\\Models\\Carteira.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T17:48:01.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20241209212802_inicial.cs",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\20241209212802_inicial.cs",
-              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Migrations\\20241209212802_inicial.cs",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Migrations\\20241209212802_inicial.cs",
-              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Migrations\\20241209212802_inicial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:28:03.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Components\\App.razor",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Components\\App.razor",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -349,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Context\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Context\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,23 +395,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\appsettings.json",
-              "RelativeToolTip": "Wallet.Web\\Wallet.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-06T19:27:17.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Program.cs",
               "RelativeDocumentMoniker": "Wallet.Web\\Wallet.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Program.cs",
               "RelativeToolTip": "Wallet.Web\\Wallet.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

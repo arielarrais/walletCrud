@@ -2,18 +2,18 @@
     <DataAnnotationsValidator />
     <ValidationSummary />
 
-@*     <div class="form-group">
-        <label form="nome">Id: </label>
-        <div>
-            <InputText id="txtCarteiraNome" @bind-Value="@Carteira!.Id" class="form-control" />
-            <ValidationMessage For="@(()=> Carteira.Id)" />
-        </div>
-    </div> *@
      <div class="form-group">
-        <label form="id_carteira">ID_Ativo: </label>
+        <label form="nome">Id_Ativo: </label>
         <div>
-              <InputNumber @bind-Value="@Carteira.Id_Ativo" class="form-control" /> 
-       @*      <ValidationMessage For="@(()=> Carteira.Id_Ativo.ToString())" />  *@
+            <InputText id="txtCarteiraNome" @bind-Value="@Carteira!.Id_Ativo" class="form-control" />
+            <ValidationMessage For="@(()=> Carteira.Id_Ativo)" />
+        </div>
+    </div> 
+     <div class="form-group">
+        <label form="id_carteira">Nome: </label>
+        <div>
+            <InputText @bind-Value="@Carteira.Nome" class="form-control" />
+            <ValidationMessage For="@(()=> Carteira.Nome)" />  
         </div>
     </div> 
     <br />

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj": {}
+    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj": {
+    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
         "projectName": "Wallet.Web.Shared",
-        "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
+        "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj",
         "packagesPath": "C:\\Users\\Nvme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nvme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj": {
+    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj",
         "projectName": "Wallet.Web.Client",
-        "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj",
+        "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj",
         "packagesPath": "C:\\Users\\Nvme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\obj\\",
+        "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nvme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj": {
-                "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj"
+              "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj": {
+                "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj": {
+    "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
         "projectName": "Wallet.Web",
-        "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
+        "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.csproj",
         "packagesPath": "C:\\Users\\Nvme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web\\obj\\",
+        "outputPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nvme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,11 +184,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj": {
-                "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj"
+              "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj": {
+                "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web.Shared\\Wallet.Web.Shared.csproj"
               },
-              "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj": {
-                "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj"
+              "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj": {
+                "projectPath": "C:\\Users\\Nvme\\Desktop\\GitHub\\wallet\\Wallet.Web\\Wallet.Web\\Wallet.Web.Client\\Wallet.Web.Client.csproj"
               }
             }
           }

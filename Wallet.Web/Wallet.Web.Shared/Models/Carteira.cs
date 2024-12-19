@@ -11,6 +11,8 @@ namespace Wallet.Web.Shared.Models
     {
         [Key]
         public int Id { get; set; }
-        public int Id_Ativo { get; set; }
+        public string? Id_Ativo { get; set; }
+
+        public string? Nome { get; set; }
     }
 }

@@ -22,7 +22,7 @@ namespace Wallet.Web.Controllers
             return await context.Carteiras.AsNoTracking().ToListAsync();
         }
 
-        [HttpGet("{id}", Name = "Carteira")]
+        [HttpGet("{id}", Name = "GetCarteira")]
         public async Task<ActionResult<Carteira>> Get(int id)
         {
             var carteira = await context.Carteiras.FirstOrDefaultAsync(x => x.Id == id);
@@ -49,7 +49,8 @@ namespace Wallet.Web.Controllers
             return Ok(carteira);
         }
 
-        [HttpDelete]
+
+        [HttpDelete("{id}")]
         public async Task<ActionResult<Carteira>> Delete(int id)
         {
             var carteira = new Carteira { Id = id };
