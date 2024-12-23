@@ -2,4 +2,4 @@
 
 Descrição esta solução é um exemplo de crud com MySql.
 
-.Net 8, Web Assembly, MySql, Migration
+Blazor  - WebAssembly ASP.NET Core Hosted no .NET 8.0, MySql, Migration
